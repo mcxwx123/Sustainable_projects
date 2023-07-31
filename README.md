@@ -1,4 +1,4 @@
-# Replication Package for Paper "How Early Participation Determines Long-Term Sustained Activity in GitHub Projects"
+# Replication Package for ESEC/FSE 2023 Paper "How Early Participation Determines Long-Term Sustained Activity in GitHub Projects?"
 
 This replication package can be used for replicating results in the paper. It contains 1) a dataset of 290,255 repositories; and 2) Python scripts for training and interpreting models. 
 
